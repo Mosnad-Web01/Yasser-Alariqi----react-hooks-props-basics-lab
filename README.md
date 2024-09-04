@@ -12,7 +12,7 @@ needed it using `import`. When we're working with React, we'll often access data
 by passing it down as a `prop` rather than importing it. This will be
 particularly true once we start working with data from external sources, such as
 APIs.
-
+ 
 In this lab, you'll write React components and render them dynamically based on
 `props` they receive from their parent components. This will enable us to use
 components as templates with the ability to render variable content.
